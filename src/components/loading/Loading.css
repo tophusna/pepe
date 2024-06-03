@@ -1,0 +1,19 @@
+.loading-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    font-family: 'San Andreas', sans-serif; /* Make sure to use a suitable font */
+  }
+  
+  .loading-logo {
+    width: 200px;
+    margin-bottom: 20px;
+  }
+  
+  .loading-text {
+    font-size: 24px;
+  }
